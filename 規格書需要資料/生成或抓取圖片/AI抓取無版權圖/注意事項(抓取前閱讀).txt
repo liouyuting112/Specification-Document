@@ -1,0 +1,5 @@
+1.根據此連結獲得API KEY Pexels: https://www.pexels.com/api/
+檔案:image_downloader_config.json修改"pexels_api_key": "取得pexels_api_key(Pexels的API KEY)",
+
+2.點擊執行圖片下載.bat或命令提示字元執行python download_images_from_markdown.py
+3.執行檔內選擇圖片清單與生成指令.md
