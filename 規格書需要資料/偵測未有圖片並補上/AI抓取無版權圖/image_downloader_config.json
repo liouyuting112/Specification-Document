@@ -1,0 +1,12 @@
+{
+  "output_dir": "downloaded_images",
+  "skip_existing": true,
+  "max_file_size_kb": 100,
+  "webp_quality": 85,
+  "delay_between_requests": 1.0,
+  "unsplash_api_key": "",
+  "pexels_api_key": "3dJZa4RTdtfmDYidP4auG0ufLBPTh30DOWcIuYlGcy0QOZt3u8dgcSWW",
+  "preferred_source": "auto",
+  "search_retry_count": 3
+}
+

@@ -1,0 +1,16 @@
+{
+  "name": "strapi-upload-scripts",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "上傳 site1-site5 內容到 Strapi 雲端",
+  "scripts": {
+    "upload": "node upload-all-to-cloud.js",
+    "sync": "node sync-from-github.js"
+  },
+  "dependencies": {
+    "contentful": "^11.10.0",
+    "node-fetch": "^3.3.2"
+  }
+}
+
+
